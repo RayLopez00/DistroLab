@@ -1,0 +1,24 @@
+#RayLopez00
+
+1. Research which distro fits your needs.
+
+2. Download the latest image of said Distro.
+
+3. Download Etcher from Etcher.io
+
+4.  Find your boot-able device on Etcher if it is not already found.
+
+5. Find the Image of the Distro you chose.
+
+6. Click flash and wait for it to flash until its complete.
+
+7. Reset your PC.
+
+8. To enter the BIOS hold F2 or F12 or the Delete Key while the PC is Booting
+
+9. When your in the BIOS make the main boot device your chosen removable device.
+
+10. Save the settings and exit.
+
+11. Your PC should reboot to the right OS.
+
